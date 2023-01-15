@@ -20,4 +20,4 @@ const changecarton=()=> {
 }
 
 
-alert("Baisse le son")
+alert("Pensez à baisser le son, screamer qui arrive")
